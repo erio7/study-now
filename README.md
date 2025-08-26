@@ -38,7 +38,24 @@ Este projeto é uma aplicação full-stack, construída com as seguintes tecnolo
 
 O projeto pode ser organizado da seguinte forma para separar as responsabilidades do frontend e backend:
 
-my-gamified-study-app/ ├── backend/                  # Aplicação Node.js (API, lógica de negócio) │   ├── src/                  # Código-fonte da aplicação (controllers, models, services) │   ├── config/               # Configurações do banco de dados e outros serviços │   ├── database/             # Migrações e seeds do PostgreSQL │   ├── node_modules/ │   ├── package.json │   └── server.js             # Ponto de entrada do backend ├── frontend/                 # Aplicação HTML, CSS, JavaScript │   ├── index.html            # Página principal │   ├── css/                  # Arquivos CSS (style.css, componentes) │   ├── js/                   # Arquivos JavaScript (lógica do cliente, interações com a API) │   └── assets/               # Imagens, fontes e outros recursos estáticos ├── docs/                     # Documentação adicional do projeto └── README.md                 # Este arquivo
+my-gamified-study-app/
+├── backend/                # Aplicação Node.js (API, lógica de negócio)
+│   ├── src/                # Código-fonte da aplicação (controllers, models, services)
+│   ├── config/             # Configurações do banco de dados e outros serviços
+│   ├── database/           # Migrações e seeds do PostgreSQL
+│   ├── node_modules/
+│   ├── package.json
+│   └── server.js           # Ponto de entrada do backend
+│
+├── frontend/               # Aplicação HTML, CSS, JavaScript
+│   ├── index.html          # Página principal
+│   ├── css/                # Arquivos CSS (style.css, componentes)
+│   ├── js/                 # Arquivos JavaScript (lógica do cliente, interações com a API)
+│   └── assets/             # Imagens, fontes e outros recursos estáticos
+│
+├── docs/                   # Documentação adicional do projeto
+│
+└── README.md               # Arquivo principal de documentação
 
 ## Configuração e Instalação
 
