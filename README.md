@@ -1,4 +1,6 @@
-# Gamificação de Estudo: Aplicativo de Desafios Diários
+# StudyNow
+
+## Gamificação de Estudo: Aplicativo de Desafios Diários
 
 ## Visão Geral do Projeto
 
