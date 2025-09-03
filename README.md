@@ -1,4 +1,4 @@
-# StudyNow
+# StudyBuddy
 
 ## Gamificação de Estudo: Aplicativo de Desafios Diários
 
@@ -75,8 +75,8 @@ Certifique-se de ter os seguintes softwares instalados:
 
 1.  **Clonar o Repositório**:
     ```bash
-    git clone https://github.com/erio7/study-now
-    cd https://github.com/erio7/study-now
+    git clone https://github.com/erio7/study-buddy
+    cd https://github.com/erio7/study-buddy
     ```
 2.  **Configurar o Banco de Dados PostgreSQL**:
     *   Crie um novo banco de dados PostgreSQL para o projeto.
