@@ -3,6 +3,7 @@
 ## Gamificação de Estudo: Aplicativo de Desafios Diários
 
 ## Visão Geral do Projeto
+<img width="1016" height="412" alt="image" src="https://github.com/user-attachments/assets/8fcea4a7-01c7-4e8f-8417-e7681613fc88" />
 
 Este projeto visa criar uma plataforma de gamificação para incentivar e acompanhar a rotina de estudos dos usuários. O aplicativo permite que os usuários criem desafios de estudo (individualmente ou com amigos), estabeleçam metas diárias e mensais, e compitam através de um sistema de pontos e ranking. O diferencial inclui a validação do conhecimento absorvido por meio de perguntas geradas por Inteligência Artificial.
 
